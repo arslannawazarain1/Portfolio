@@ -10,7 +10,7 @@
     <!-- Header & Navigation Area -->
     <header>
         <nav>
-            <h1>Your Name</h1>
+            <h1>Arslan Nawaz</h1>
             <ul>
                 <li><a href="#about">About</a></li>
                 <li><a href="#projects">Engineering Projects</a></li>
@@ -25,7 +25,7 @@
        
         <!-- Introduction Section -->
         <section id="about">
-            <h2>Hi, I'm [Your Name]</h2>
+            <h2>Hi, I'm [Arslan Nawaz]</h2>
             <p>I am a software developer focused on building scalable web applications and highly interactive user interfaces.</p>
         </section>
 
