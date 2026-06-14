@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Software Developer</title>
+    <title>Arslan Nawaz - Software Developer</title>
 </head>
 <body>
 
